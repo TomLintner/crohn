@@ -1,0 +1,14 @@
+{
+  "title": "Comparative efficacy and safety of medical therapies for Crohn's disease: a living systematic review and Bayesian network meta-analysis - protocol (version 2.4)",
+  "upload_type": "other",
+  "version": "v1.0-protocol",
+  "license": "cc-by-4.0",
+  "description": "Protocol (version 2.4, 24 October 2026) of a living systematic review and Bayesian network meta-analysis of medical therapies for Crohn's disease, with the PRISMA-P checklist (S3), the review pool of earlier systematic reviews (S1, citations only), full search strategies and their PRESS peer review (S2), network node definitions (S4), and the screening prompts, pilot scripts and pilot reports. Code is MIT-licensed (LICENSE-CODE).",
+  "creators": [
+    {"name": "Lintner, Tomáš", "affiliation": "Masaryk University", "orcid": "0000-0002-1448-4064"},
+    {"name": "Ropovik, Ivan", "affiliation": "National Institute SYRI", "orcid": "0000-0001-5222-1233"},
+    {"name": "Nesrstová, Michaela", "affiliation": "St. Anne's University Hospital Brno"},
+    {"name": "Derflerová Brázdová, Zuzana", "affiliation": "Masaryk University"}
+  ],
+  "keywords": ["Crohn's disease", "network meta-analysis", "living systematic review", "protocol"]
+}

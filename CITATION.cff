@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this protocol or its materials, please cite it as below."
+type: dataset
+title: "Comparative efficacy and safety of medical therapies for Crohn's disease: a living systematic review and Bayesian network meta-analysis - protocol"
+version: "v1.0-protocol (protocol version 2.4)"
+date-released: "2026-10-24"
+license: CC-BY-4.0
+repository-code: "https://github.com/TomLintner/crohn"
+# doi: to be added after the Zenodo release
+authors:
+  - family-names: Lintner
+    given-names: "Tomáš"
+    email: tomas.lintner@mail.muni.cz
+    affiliation: "Department of Public Health, Faculty of Medicine, Masaryk University, Brno, Czech Republic"
+    orcid: "https://orcid.org/0000-0002-1448-4064"
+  - family-names: Ropovik
+    given-names: Ivan
+    affiliation: "National Institute SYRI, Brno, Czech Republic"
+    orcid: "https://orcid.org/0000-0001-5222-1233"
+  - family-names: "Nesrstová"
+    given-names: Michaela
+    affiliation: "Gastroenterology and Hepatology Department, St. Anne's University Hospital, Brno, Czech Republic"
+  - family-names: "Derflerová Brázdová"
+    given-names: Zuzana
+    affiliation: "Department of Public Health, Faculty of Medicine, Masaryk University, Brno, Czech Republic"
+keywords:
+  - Crohn's disease
+  - network meta-analysis
+  - living systematic review
+  - protocol
