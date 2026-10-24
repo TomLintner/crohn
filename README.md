@@ -6,7 +6,7 @@ Authors: Tomáš Lintner, Ivan Ropovik, Michaela Nesrstová, Zuzana Derflerová 
 
 Corresponding author: Tomáš Lintner (tomas.lintner@mail.muni.cz, ORCID 0000-0002-1448-4064), Department of Public Health, Faculty of Medicine, Masaryk University, Brno, Czech Republic.
 
-Registration: PROSPERO (registration number pending; it will be added here once assigned).
+Registration: PROSPERO (registration number pending; it will be added here once assigned). Archived release: [![DOI](https://zenodo.org/badge/1424559444.svg)](https://doi.org/10.5281/zenodo.23618067)
 
 ## Contents
 
@@ -24,6 +24,6 @@ Documents and data are licensed under Creative Commons Attribution 4.0 Internati
 
 ## How to cite
 
-Lintner T, Ropovik I, Nesrstová M, Derflerová Brázdová Z. Comparative efficacy and safety of medical therapies for Crohn's disease: a living systematic review and Bayesian network meta-analysis. Protocol, version 2.4 (release v1.0-protocol). Zenodo; 2026. doi:[DOI to be assigned at release]
+Lintner T, Ropovik I, Nesrstová M, Derflerová Brázdová Z. Comparative efficacy and safety of medical therapies for Crohn's disease: a living systematic review and Bayesian network meta-analysis. Protocol, version 2.4 (release v1.0-protocol). Zenodo; 2026. doi:10.5281/zenodo.23618067
 
 See also `CITATION.cff`.

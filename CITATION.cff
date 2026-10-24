@@ -6,7 +6,7 @@ version: "v1.0-protocol (protocol version 2.4)"
 date-released: "2026-10-24"
 license: CC-BY-4.0
 repository-code: "https://github.com/TomLintner/crohn"
-# doi: to be added after the Zenodo release
+doi: "10.5281/zenodo.23618067"
 authors:
   - family-names: Lintner
     given-names: "Tomáš"
